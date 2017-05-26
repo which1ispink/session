@@ -1,0 +1,24 @@
+{
+    "name": "which1ispink/session",
+    "description": "A simple PHP native session wrapper",
+    "type": "library",
+    "keywords": [
+        "php",
+        "session"
+    ],
+    "authors": [
+        {
+            "name": "Ahmed Hassan",
+            "email": "a.hassan.dev@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Which1ispink\\Session\\": "src/"
+        }
+    }
+}
