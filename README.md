@@ -15,6 +15,8 @@ Otherwise you'd have to include the src/Session.php file the old-fashioned way.
 ## Usage
 
 ```php
+use Which1ispink\Session\Session;
+
 // this needs to be called in your bootstrapping code like an index.php file
 Session::init();
 
