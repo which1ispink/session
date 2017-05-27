@@ -55,4 +55,4 @@ Session::getAllFlashMessages();
 
 ## License
 
-The Seeker framework is licensed under the MIT license. See [License File](LICENSE.md) for more information.
+This library is licensed under the MIT license. See [License File](LICENSE.md) for more information.
