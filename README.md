@@ -21,7 +21,7 @@ use Which1ispink\Session\Session;
 Session::init();
 
 // setting a session variable
-Session::set('username', 'some_username);
+Session::set('username', 'some_username');
 
 // getting said variable later
 Session::get('username');
